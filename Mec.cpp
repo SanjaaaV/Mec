@@ -1,4 +1,4 @@
 #include "Mec.h"
 
 
-string Mec::ishodStr[] = { "HOTEL", "APARTMAN" };
+string Mec::ishodStr[] = { "POBEDA_DOMACIN", "NERESENO" , "POBEDA_GOST" };
